@@ -1,0 +1,1 @@
+This directory should be used to add any results including figures and intermediate data
